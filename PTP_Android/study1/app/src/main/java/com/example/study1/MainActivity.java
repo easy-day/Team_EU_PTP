@@ -60,6 +60,8 @@ public class MainActivity extends AppCompatActivity {
                     }
                 });
 
+
+                //asdfasdf
                 joinApi.checkedImgToggle(idImgeChecked);
 
 
